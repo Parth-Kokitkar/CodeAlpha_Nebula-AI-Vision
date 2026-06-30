@@ -1,5 +1,11 @@
 # 🚀 Nebula AI Vision Pro
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
+![YOLOv8](https://img.shields.io/badge/YOLOv8-AI-success)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red)
+
+![License](https://img.shields.io/badge/License-Educational-orange)
 <p align="center">
 
 ### Professional Real-Time Object Detection & Tracking System
@@ -133,9 +139,9 @@ Nebula-AI-Vision/
 
 ---
 
-## 👤 Person Detection
-
-![Person Detection](screenshots/detectObject.png)
+## 📱 Mobile Phone Detection
+ 
+![Mobile Detection](screenshots/detectObject1.png)
 
 ---
 
@@ -151,7 +157,7 @@ Nebula-AI-Vision/
 
 ---
 
-## 📊 Dashboard
+## 📊 Live Analytics Dashboard
 
 ![Dashboard](screenshots/sideBarInterface.png)
 
@@ -162,7 +168,7 @@ Nebula-AI-Vision/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Nebula-AI-Vision.git
+git clone https://github.com/Parth-Kokitkar/CodeAlpha_Nebula-AI-Vision.git
 ```
 
 Move into the project
@@ -208,12 +214,12 @@ NumPy
 # 🚀 Future Improvements
 
 - Face Recognition
-- Fire Detection
-- Weapon Detection
 - Emotion Detection
+- Gesture Control
 - Vehicle Detection
 - Number Plate Recognition
-- Gesture Control
+- Fire Detection
+- Weapon Detection
 - Voice Assistant Integration
 - AI Security Monitoring
 - Cloud Database Integration
@@ -248,15 +254,11 @@ This project is developed for educational and internship purposes.
 
 **Parth Kokitkar**
 
-Artificial Intelligence Enthusiast
-
-B.Tech Artificial Intelligence Student
+B.Tech Student – Artificial Intelligence
 
 MIT ADT University
 
----
-
-## ⭐ If you like this project, consider giving it a Star!
+Passionate about Artificial Intelligence, Computer Vision, and Intelligent Software Systems.
 
 ---
 
