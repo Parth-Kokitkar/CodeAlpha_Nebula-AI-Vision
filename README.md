@@ -142,7 +142,7 @@ Nebula-AI-Vision/
 
 ---
 
-## 📱 Mobile Phone Detection
+## 📱 Phone Detection
  
 ![Mobile Detection](screenshots/DetectObject1.png)
 
