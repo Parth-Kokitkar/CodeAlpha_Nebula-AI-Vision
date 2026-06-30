@@ -1,7 +1,7 @@
 <p align="left">
-  <img src="screenshots/NEW.png" width="525">
+  <img src="screenshots/NEW.png" width="425">
 </p>
-<p align="center">
+<p align="left">
   <strong>Transforming Computer Vision into an Intelligent Real-Time Experience.</strong>
 </p>
 
