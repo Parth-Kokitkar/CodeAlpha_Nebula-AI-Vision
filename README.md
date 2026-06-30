@@ -1,5 +1,13 @@
 # 🚀 Nebula AI Vision Pro
 
+ <p align="center">
+
+### Professional Real-Time Object Detection & Tracking System
+
+Built with **Python • YOLOv8 • ByteTrack • OpenCV • CustomTkinter**
+
+Detect • Track • Monitor • Analyze
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-AI-success)
@@ -8,13 +16,6 @@
 
 ![License](https://img.shields.io/badge/License-Educational-orange)
 
-<p align="center">
-
-### Professional Real-Time Object Detection & Tracking System
-
-Built with **Python • YOLOv8 • ByteTrack • OpenCV • CustomTkinter**
-
-Detect • Track • Monitor • Analyze
 
 </p>
 
@@ -143,7 +144,7 @@ Nebula-AI-Vision/
 
 ## 📱 Mobile Phone Detection
  
-![Mobile Detection](screenshots/detectObject1.png)
+![Mobile Detection](screenshots/DetectObject1.png)
 
 ---
 
