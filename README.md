@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="screenshots/NebulaLogo.png" width="425">
+  <img src="screenshots/NebulaLogo.png" width="525">
 </p>
 <p align="center">
   <strong>Transforming Computer Vision into an Intelligent Real-Time Experience.</strong>
